@@ -1,0 +1,16 @@
+[
+{
+  "modid": "huaji",
+  "name": "Huaji Mod",
+  "description": "Huaji Mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Allenyou1126"],
+  "credits": "Notch,Cpw,Allenyou1126",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
